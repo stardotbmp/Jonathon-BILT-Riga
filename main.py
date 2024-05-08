@@ -94,7 +94,7 @@ def automate_function(
             function_inputs.number_of_elements,
             len(displayable_objects),
         )
-
+        # comment
         selected_objects = random.sample(
             displayable_objects,
             real_number_of_elements,
